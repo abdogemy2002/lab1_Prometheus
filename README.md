@@ -9,6 +9,7 @@ The lab consists of three core components:
 2. **Node Exporter (VM2):** A target node exposing OS and hardware metrics.
 3. **Custom Python Application:** A background workload instrumented to expose custom metrics (requests and latency).
 
+![Prometheus Targets Dashboard showing UP status](assets/prometheus_targets.png)
 ---
 
 ## Phase 1: Prometheus Server Deployment
